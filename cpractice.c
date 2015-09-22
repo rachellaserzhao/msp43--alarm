@@ -4,7 +4,7 @@ unsigned int y
 
 int main void (){
 
-x = 5; 
+x = 4; 
 y = 6; 
 
 x = x + y ; 
